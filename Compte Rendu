@@ -1,0 +1,4 @@
+1/ Crétaion dépôt local
+	a)mkdir tp-note-local
+	b)touch README.md
+	c)git-ignore
