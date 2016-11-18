@@ -1,4 +1,11 @@
-1/ Crétaion dépôt local
+1/ Création dépôt local
 	a)mkdir tp-note-local
 	b)touch README.md
 	c)git-ignore
+	d)git init
+	  git add README.md
+	  git commit -m "first commit"
+        e)git remote add origin https://github.com/100Balles/tp-note-local.git
+	f)git push origin master
+
+2/
